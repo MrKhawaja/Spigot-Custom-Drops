@@ -1,0 +1,6 @@
+name: PixeledgeCDroo
+version: 1.0
+author: AlveeYT
+main: xyz.alveehawak.cdrop.CDrop
+api-version: 1.8
+commands:
