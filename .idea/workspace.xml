@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CDrop" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0c183958-7f9b-40cb-b5a6-4afc458010b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spigot-Custom-Drops.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/CDrop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/CDrop.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customdrop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prime/plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prime/xyz/alveehawak/rage/CooldownManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Prime/xyz/alveehawak/rage/Rage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spigot-Rage/plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spigot-Rage/xyz/alveehawak/rage/CooldownManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spigot-Rage/xyz/alveehawak/rage/MobDrops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spigot-Rage/xyz/alveehawak/rage/Rage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xyz/alveehawak/rage/CooldownManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xyz/alveehawak/rage/MobDrops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xyz/alveehawak/rage/Rage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/alveehawak/cdrop/CDrop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spigot-Custom-Drops/xyz/alveehawak/cdrop/MobDeath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spigot-Custom-Drops/xyz/alveehawak/cdrop/MobDeath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/alveehawak/cdrop/MobDeath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/alveehawak/cdrop/MobDeath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rage/Spigot-Rage" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
