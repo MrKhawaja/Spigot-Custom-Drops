@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Spigot-custom drop.iml" filepath="$PROJECT_DIR$/Spigot-custom drop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spigot-Custom-Drops.iml" filepath="$PROJECT_DIR$/Spigot-Custom-Drops.iml" />
     </modules>
   </component>
 </project>
