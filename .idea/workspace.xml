@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0c183958-7f9b-40cb-b5a6-4afc458010b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spigot-Custom-Drops/xyz/alveehawak/cdrop/MobDeath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spigot-Custom-Drops/xyz/alveehawak/cdrop/MobDeath.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/xyz/alveehawak/cdrop/MobDeath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/alveehawak/cdrop/MobDeath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

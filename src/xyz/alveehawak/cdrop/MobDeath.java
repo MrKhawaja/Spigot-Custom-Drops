@@ -14,11 +14,10 @@ public class MobDeath implements Listener {
     public void onPlayerJoin(EntityDeathEvent event) {
         LivingEntity mob = event.getEntity();
         if(mob instanceof Witch){
-            ItemStack stack = new ItemStack(Material.EMERALD, 10);
-            event.getDrops().add(stack);
+            event.getDrops().add(new ItemStack(Material.EMERALD, 4));
+            event.getDrops().add(new ItemStack(Material.SULPHUR, 3));
         }else if(mob instanceof Villager){
-            ItemStack stack = new ItemStack(Material.EMERALD, 5);
-            event.getDrops().add(stack);
+            event.getDrops().add(new ItemStack(Material.EMERALD, 2));
         }
     }
 }

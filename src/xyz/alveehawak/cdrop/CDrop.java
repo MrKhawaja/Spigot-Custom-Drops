@@ -14,14 +14,14 @@ public class CDrop extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        Bukkit.getConsoleSender().sendMessage(ChatColor.GREEN+"EEEEEE primeedge er Cdrop plugin on hoise");
+        Bukkit.getConsoleSender().sendMessage(ChatColor.GREEN+"CDrop Turned On");
         plugin = this;
         getServer().getPluginManager().registerEvents(new MobDeath(), this);
     }
 
     @Override
     public void onDisable(){
-        Bukkit.getConsoleSender().sendMessage(ChatColor.RED+"PixelCDrop Off hoilo");
+        Bukkit.getConsoleSender().sendMessage(ChatColor.RED+"CDrop turned Off");
     }
 
 
