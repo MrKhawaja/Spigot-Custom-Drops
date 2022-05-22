@@ -9,9 +9,6 @@ public class CDrop extends JavaPlugin {
     public static Plugin plugin;
 
 
-    public CDrop() {
-    }
-
     @Override
     public void onEnable() {
         Bukkit.getConsoleSender().sendMessage(ChatColor.GREEN+"CDrop Turned On");
